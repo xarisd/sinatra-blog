@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'open-uri'
+
+# place your own URL here
+open('http://localhost:4567/update')”
